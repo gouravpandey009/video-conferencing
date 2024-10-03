@@ -174,7 +174,7 @@ A huge thanks to all the open-source contributors and the community for making t
 
 ### 💬 **Connect with Me**
 
-- [LinkedIn](https://www.linkedin.com/in/gouravpandey009/)
+- [LinkedIn](https://www.linkedin.com/in/gouravpandey09/)
 - [GitHub](https://github.com/gouravpandey009)
 
 ---
