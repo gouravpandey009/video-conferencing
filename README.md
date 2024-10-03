@@ -37,13 +37,6 @@ The **Video Conferencing App** is a high-performance and scalable solution built
 
 ---
 
-## 📷 **Preview**
-
-![Video Conferencing App Preview](https://user-images.githubusercontent.com/0000000/placeholder.png)  
-_A sneak peek of the app's interface._
-
----
-
 ## 🚩 **Project Structure**
 
 The project is divided into two main folders:
