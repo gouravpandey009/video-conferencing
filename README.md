@@ -176,11 +176,3 @@ A huge thanks to all the open-source contributors and the community for making t
 
 - [LinkedIn](https://www.linkedin.com/in/gouravpandey09/)
 - [GitHub](https://github.com/gouravpandey009)
-
----
-
-Happy Coding! ✨
-
----
-
-This README is designed to impress recruiters by showing professionalism and clear documentation while making the project easy to understand for other developers. You can also include a demo link if available to showcase the functionality directly.
