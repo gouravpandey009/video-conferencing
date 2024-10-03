@@ -1,7 +1,3 @@
-Here’s a well-structured, visually appealing, and professional `README.md` for your **Video Conferencing App** project. It includes emojis, sections for project information, and useful documentation for recruiters and users alike.
-
----
-
 # 📹 **Video Conferencing App**
 
 ![License](https://img.shields.io/github/license/gouravpandey009/video-conferencing?style=flat-square)
